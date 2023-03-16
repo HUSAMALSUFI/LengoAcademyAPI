@@ -1,0 +1,56 @@
+D:\Dare Academy\Task\DareAcademy\DareAcademy_DataAccess\bin\Debug\net7.0\DareAcademy_DataAccess.deps.json
+D:\Dare Academy\Task\DareAcademy\DareAcademy_DataAccess\bin\Debug\net7.0\DareAcademy_DataAccess.runtimeconfig.json
+D:\Dare Academy\Task\DareAcademy\DareAcademy_DataAccess\bin\Debug\net7.0\DareAcademy_DataAccess.dll
+D:\Dare Academy\Task\DareAcademy\DareAcademy_DataAccess\bin\Debug\net7.0\DareAcademy_DataAccess.pdb
+D:\Dare Academy\Task\DareAcademy\DareAcademy_DataAccess\obj\Debug\net7.0\DareAcademy_DataAccess.csproj.AssemblyReference.cache
+D:\Dare Academy\Task\DareAcademy\DareAcademy_DataAccess\obj\Debug\net7.0\DareAcademy_DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dare Academy\Task\DareAcademy\DareAcademy_DataAccess\obj\Debug\net7.0\DareAcademy_DataAccess.AssemblyInfoInputs.cache
+D:\Dare Academy\Task\DareAcademy\DareAcademy_DataAccess\obj\Debug\net7.0\DareAcademy_DataAccess.AssemblyInfo.cs
+D:\Dare Academy\Task\DareAcademy\DareAcademy_DataAccess\obj\Debug\net7.0\DareAcademy_DataAccess.csproj.CoreCompileInputs.cache
+D:\Dare Academy\Task\DareAcademy\DareAcademy_DataAccess\obj\Debug\net7.0\DareAcademy_DataAccess.dll
+D:\Dare Academy\Task\DareAcademy\DareAcademy_DataAccess\obj\Debug\net7.0\refint\DareAcademy_DataAccess.dll
+D:\Dare Academy\Task\DareAcademy\DareAcademy_DataAccess\obj\Debug\net7.0\DareAcademy_DataAccess.pdb
+D:\Dare Academy\Task\DareAcademy\DareAcademy_DataAccess\obj\Debug\net7.0\DareAcademy_DataAccess.genruntimeconfig.cache
+D:\Dare Academy\Task\DareAcademy\DareAcademy_DataAccess\obj\Debug\net7.0\ref\DareAcademy_DataAccess.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_DataAccess\bin\Debug\net7.0\DareAcademy_DataAccess.deps.json
+E:\Dare Academy\Task\DareAcademy\DareAcademy_DataAccess\bin\Debug\net7.0\DareAcademy_DataAccess.runtimeconfig.json
+E:\Dare Academy\Task\DareAcademy\DareAcademy_DataAccess\bin\Debug\net7.0\DareAcademy_DataAccess.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_DataAccess\bin\Debug\net7.0\DareAcademy_DataAccess.pdb
+E:\Dare Academy\Task\DareAcademy\DareAcademy_DataAccess\obj\Debug\net7.0\DareAcademy_DataAccess.csproj.AssemblyReference.cache
+E:\Dare Academy\Task\DareAcademy\DareAcademy_DataAccess\obj\Debug\net7.0\DareAcademy_DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dare Academy\Task\DareAcademy\DareAcademy_DataAccess\obj\Debug\net7.0\DareAcademy_DataAccess.AssemblyInfoInputs.cache
+E:\Dare Academy\Task\DareAcademy\DareAcademy_DataAccess\obj\Debug\net7.0\DareAcademy_DataAccess.AssemblyInfo.cs
+E:\Dare Academy\Task\DareAcademy\DareAcademy_DataAccess\obj\Debug\net7.0\DareAcademy_DataAccess.csproj.CoreCompileInputs.cache
+E:\Dare Academy\Task\DareAcademy\DareAcademy_DataAccess\obj\Debug\net7.0\DareAcademy_DataAccess.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_DataAccess\obj\Debug\net7.0\refint\DareAcademy_DataAccess.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_DataAccess\obj\Debug\net7.0\DareAcademy_DataAccess.pdb
+E:\Dare Academy\Task\DareAcademy\DareAcademy_DataAccess\obj\Debug\net7.0\DareAcademy_DataAccess.genruntimeconfig.cache
+E:\Dare Academy\Task\DareAcademy\DareAcademy_DataAccess\obj\Debug\net7.0\ref\DareAcademy_DataAccess.dll
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_DataAccess\bin\Debug\net7.0\DareAcademy_DataAccess.deps.json
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_DataAccess\bin\Debug\net7.0\DareAcademy_DataAccess.runtimeconfig.json
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_DataAccess\bin\Debug\net7.0\DareAcademy_DataAccess.dll
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_DataAccess\bin\Debug\net7.0\DareAcademy_DataAccess.pdb
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_DataAccess\obj\Debug\net7.0\DareAcademy_DataAccess.csproj.AssemblyReference.cache
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_DataAccess\obj\Debug\net7.0\DareAcademy_DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_DataAccess\obj\Debug\net7.0\DareAcademy_DataAccess.AssemblyInfoInputs.cache
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_DataAccess\obj\Debug\net7.0\DareAcademy_DataAccess.AssemblyInfo.cs
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_DataAccess\obj\Debug\net7.0\DareAcademy_DataAccess.csproj.CoreCompileInputs.cache
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_DataAccess\obj\Debug\net7.0\DareAcademy_DataAccess.dll
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_DataAccess\obj\Debug\net7.0\refint\DareAcademy_DataAccess.dll
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_DataAccess\obj\Debug\net7.0\DareAcademy_DataAccess.pdb
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_DataAccess\obj\Debug\net7.0\DareAcademy_DataAccess.genruntimeconfig.cache
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_DataAccess\obj\Debug\net7.0\ref\DareAcademy_DataAccess.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_DataAccess\bin\Debug\net7.0\DareAcademy_DataAccess.deps.json
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_DataAccess\bin\Debug\net7.0\DareAcademy_DataAccess.runtimeconfig.json
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_DataAccess\bin\Debug\net7.0\DareAcademy_DataAccess.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_DataAccess\bin\Debug\net7.0\DareAcademy_DataAccess.pdb
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_DataAccess\obj\Debug\net7.0\DareAcademy_DataAccess.csproj.AssemblyReference.cache
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_DataAccess\obj\Debug\net7.0\DareAcademy_DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_DataAccess\obj\Debug\net7.0\DareAcademy_DataAccess.AssemblyInfoInputs.cache
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_DataAccess\obj\Debug\net7.0\DareAcademy_DataAccess.AssemblyInfo.cs
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_DataAccess\obj\Debug\net7.0\DareAcademy_DataAccess.csproj.CoreCompileInputs.cache
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_DataAccess\obj\Debug\net7.0\DareAcademy_DataAccess.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_DataAccess\obj\Debug\net7.0\refint\DareAcademy_DataAccess.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_DataAccess\obj\Debug\net7.0\DareAcademy_DataAccess.pdb
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_DataAccess\obj\Debug\net7.0\DareAcademy_DataAccess.genruntimeconfig.cache
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_DataAccess\obj\Debug\net7.0\ref\DareAcademy_DataAccess.dll

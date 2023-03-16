@@ -1,0 +1,364 @@
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\web.config
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\appsettings.Development.json
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\appsettings.json
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\DareAcademy_API.exe
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\DareAcademy_API.deps.json
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\DareAcademy_API.runtimeconfig.json
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\DareAcademy_API.dll
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\DareAcademy_API.pdb
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Azure.Core.dll
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Azure.Identity.dll
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Humanizer.dll
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\System.CodeDom.dll
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\DareAcademy_BusinessLogic.dll
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\DareAcademy_DataAccess.dll
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\DareAcademy_BusinessLogic.pdb
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\DareAcademy_DataAccess.pdb
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\obj\Debug\net7.0\DareAcademy_API.csproj.AssemblyReference.cache
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\obj\Debug\net7.0\DareAcademy_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\obj\Debug\net7.0\DareAcademy_API.AssemblyInfoInputs.cache
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\obj\Debug\net7.0\DareAcademy_API.AssemblyInfo.cs
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\obj\Debug\net7.0\DareAcademy_API.csproj.CoreCompileInputs.cache
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\obj\Debug\net7.0\DareAcademy_API.MvcApplicationPartsAssemblyInfo.cs
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\obj\Debug\net7.0\DareAcademy_API.MvcApplicationPartsAssemblyInfo.cache
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\obj\Debug\net7.0\staticwebassets\msbuild.DareAcademy_API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\obj\Debug\net7.0\staticwebassets\msbuild.build.DareAcademy_API.props
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.DareAcademy_API.props
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.DareAcademy_API.props
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\obj\Debug\net7.0\staticwebassets.build.json
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\obj\Debug\net7.0\staticwebassets.development.json
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\obj\Debug\net7.0\scopedcss\bundle\DareAcademy_API.styles.css
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\obj\Debug\net7.0\DareAcademy_API.csproj.CopyComplete
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\obj\Debug\net7.0\DareAcademy_API.dll
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\obj\Debug\net7.0\refint\DareAcademy_API.dll
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\obj\Debug\net7.0\DareAcademy_API.pdb
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\obj\Debug\net7.0\DareAcademy_API.genruntimeconfig.cache
+D:\Dare Academy\Task\DareAcademy\DareAcademy_API\obj\Debug\net7.0\ref\DareAcademy_API.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\web.config
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\appsettings.Development.json
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\appsettings.json
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\DareAcademy_API.exe
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\DareAcademy_API.deps.json
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\DareAcademy_API.runtimeconfig.json
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\DareAcademy_API.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\DareAcademy_API.pdb
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Azure.Core.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Azure.Identity.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Humanizer.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\System.CodeDom.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\System.Memory.Data.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\DareAcademy_BusinessLogic.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\DareAcademy_DataAccess.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\DareAcademy_BusinessLogic.pdb
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\bin\Debug\net7.0\DareAcademy_DataAccess.pdb
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\obj\Debug\net7.0\DareAcademy_API.csproj.AssemblyReference.cache
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\obj\Debug\net7.0\DareAcademy_API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\obj\Debug\net7.0\DareAcademy_API.AssemblyInfoInputs.cache
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\obj\Debug\net7.0\DareAcademy_API.AssemblyInfo.cs
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\obj\Debug\net7.0\DareAcademy_API.csproj.CoreCompileInputs.cache
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\obj\Debug\net7.0\DareAcademy_API.MvcApplicationPartsAssemblyInfo.cache
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\obj\Debug\net7.0\staticwebassets\msbuild.DareAcademy_API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\obj\Debug\net7.0\staticwebassets\msbuild.build.DareAcademy_API.props
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.DareAcademy_API.props
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.DareAcademy_API.props
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\obj\Debug\net7.0\staticwebassets.build.json
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\obj\Debug\net7.0\staticwebassets.development.json
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\obj\Debug\net7.0\scopedcss\bundle\DareAcademy_API.styles.css
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\obj\Debug\net7.0\DareAcademy_API.csproj.CopyComplete
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\obj\Debug\net7.0\DareAcademy_API.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\obj\Debug\net7.0\refint\DareAcademy_API.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\obj\Debug\net7.0\DareAcademy_API.pdb
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\obj\Debug\net7.0\DareAcademy_API.genruntimeconfig.cache
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\obj\Debug\net7.0\ref\DareAcademy_API.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_API\obj\Debug\net7.0\DareAcademy_API.MvcApplicationPartsAssemblyInfo.cs
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\web.config
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\appsettings.Development.json
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\appsettings.json
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\DareAcademy_API.exe
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\DareAcademy_API.deps.json
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\DareAcademy_API.runtimeconfig.json
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\DareAcademy_API.dll
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\DareAcademy_API.pdb
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Azure.Core.dll
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Azure.Identity.dll
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Humanizer.dll
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\System.CodeDom.dll
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\System.Memory.Data.dll
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\DareAcademy_BusinessLogic.dll
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\DareAcademy_DataAccess.dll
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\DareAcademy_BusinessLogic.pdb
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\DareAcademy_DataAccess.pdb
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\obj\Debug\net7.0\DareAcademy_API.csproj.AssemblyReference.cache
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\obj\Debug\net7.0\DareAcademy_API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\obj\Debug\net7.0\DareAcademy_API.AssemblyInfoInputs.cache
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\obj\Debug\net7.0\DareAcademy_API.AssemblyInfo.cs
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\obj\Debug\net7.0\DareAcademy_API.csproj.CoreCompileInputs.cache
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\obj\Debug\net7.0\DareAcademy_API.MvcApplicationPartsAssemblyInfo.cs
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\obj\Debug\net7.0\DareAcademy_API.MvcApplicationPartsAssemblyInfo.cache
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\obj\Debug\net7.0\staticwebassets\msbuild.DareAcademy_API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\obj\Debug\net7.0\staticwebassets\msbuild.build.DareAcademy_API.props
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.DareAcademy_API.props
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.DareAcademy_API.props
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\obj\Debug\net7.0\staticwebassets.build.json
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\obj\Debug\net7.0\staticwebassets.development.json
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\obj\Debug\net7.0\scopedcss\bundle\DareAcademy_API.styles.css
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\obj\Debug\net7.0\DareAcademy_API.csproj.CopyComplete
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\obj\Debug\net7.0\DareAcademy_API.dll
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\obj\Debug\net7.0\refint\DareAcademy_API.dll
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\obj\Debug\net7.0\DareAcademy_API.pdb
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\obj\Debug\net7.0\DareAcademy_API.genruntimeconfig.cache
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_API\obj\Debug\net7.0\ref\DareAcademy_API.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\web.config
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\appsettings.Development.json
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\appsettings.json
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\DareAcademy_API.exe
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\DareAcademy_API.deps.json
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\DareAcademy_API.runtimeconfig.json
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\DareAcademy_API.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\DareAcademy_API.pdb
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Azure.Core.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Azure.Identity.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Humanizer.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\System.CodeDom.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\System.Memory.Data.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\DareAcademy_BusinessLogic.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\DareAcademy_DataAccess.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\DareAcademy_BusinessLogic.pdb
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\bin\Debug\net7.0\DareAcademy_DataAccess.pdb
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\obj\Debug\net7.0\DareAcademy_API.csproj.AssemblyReference.cache
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\obj\Debug\net7.0\DareAcademy_API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\obj\Debug\net7.0\DareAcademy_API.AssemblyInfoInputs.cache
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\obj\Debug\net7.0\DareAcademy_API.AssemblyInfo.cs
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\obj\Debug\net7.0\DareAcademy_API.csproj.CoreCompileInputs.cache
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\obj\Debug\net7.0\DareAcademy_API.MvcApplicationPartsAssemblyInfo.cs
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\obj\Debug\net7.0\DareAcademy_API.MvcApplicationPartsAssemblyInfo.cache
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\obj\Debug\net7.0\staticwebassets\msbuild.DareAcademy_API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\obj\Debug\net7.0\staticwebassets\msbuild.build.DareAcademy_API.props
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.DareAcademy_API.props
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.DareAcademy_API.props
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\obj\Debug\net7.0\staticwebassets.build.json
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\obj\Debug\net7.0\staticwebassets.development.json
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\obj\Debug\net7.0\scopedcss\bundle\DareAcademy_API.styles.css
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\obj\Debug\net7.0\DareAcademy_API.csproj.CopyComplete
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\obj\Debug\net7.0\DareAcademy_API.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\obj\Debug\net7.0\refint\DareAcademy_API.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\obj\Debug\net7.0\DareAcademy_API.pdb
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\obj\Debug\net7.0\DareAcademy_API.genruntimeconfig.cache
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_API\obj\Debug\net7.0\ref\DareAcademy_API.dll

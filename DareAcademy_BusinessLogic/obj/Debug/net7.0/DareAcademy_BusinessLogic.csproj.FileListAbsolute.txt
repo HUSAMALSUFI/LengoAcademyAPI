@@ -1,0 +1,68 @@
+D:\Dare Academy\Task\DareAcademy\DareAcademy_BusinessLogic\bin\Debug\net7.0\DareAcademy_BusinessLogic.deps.json
+D:\Dare Academy\Task\DareAcademy\DareAcademy_BusinessLogic\bin\Debug\net7.0\DareAcademy_BusinessLogic.runtimeconfig.json
+D:\Dare Academy\Task\DareAcademy\DareAcademy_BusinessLogic\bin\Debug\net7.0\DareAcademy_BusinessLogic.dll
+D:\Dare Academy\Task\DareAcademy\DareAcademy_BusinessLogic\bin\Debug\net7.0\DareAcademy_BusinessLogic.pdb
+D:\Dare Academy\Task\DareAcademy\DareAcademy_BusinessLogic\bin\Debug\net7.0\DareAcademy_DataAccess.dll
+D:\Dare Academy\Task\DareAcademy\DareAcademy_BusinessLogic\bin\Debug\net7.0\DareAcademy_DataAccess.pdb
+D:\Dare Academy\Task\DareAcademy\DareAcademy_BusinessLogic\obj\Debug\net7.0\DareAcademy_BusinessLogic.csproj.AssemblyReference.cache
+D:\Dare Academy\Task\DareAcademy\DareAcademy_BusinessLogic\obj\Debug\net7.0\DareAcademy_BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dare Academy\Task\DareAcademy\DareAcademy_BusinessLogic\obj\Debug\net7.0\DareAcademy_BusinessLogic.AssemblyInfoInputs.cache
+D:\Dare Academy\Task\DareAcademy\DareAcademy_BusinessLogic\obj\Debug\net7.0\DareAcademy_BusinessLogic.AssemblyInfo.cs
+D:\Dare Academy\Task\DareAcademy\DareAcademy_BusinessLogic\obj\Debug\net7.0\DareAcademy_BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Dare Academy\Task\DareAcademy\DareAcademy_BusinessLogic\obj\Debug\net7.0\DareAcademy_BusinessLogic.csproj.CopyComplete
+D:\Dare Academy\Task\DareAcademy\DareAcademy_BusinessLogic\obj\Debug\net7.0\DareAcademy_BusinessLogic.dll
+D:\Dare Academy\Task\DareAcademy\DareAcademy_BusinessLogic\obj\Debug\net7.0\refint\DareAcademy_BusinessLogic.dll
+D:\Dare Academy\Task\DareAcademy\DareAcademy_BusinessLogic\obj\Debug\net7.0\DareAcademy_BusinessLogic.pdb
+D:\Dare Academy\Task\DareAcademy\DareAcademy_BusinessLogic\obj\Debug\net7.0\DareAcademy_BusinessLogic.genruntimeconfig.cache
+D:\Dare Academy\Task\DareAcademy\DareAcademy_BusinessLogic\obj\Debug\net7.0\ref\DareAcademy_BusinessLogic.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_BusinessLogic\bin\Debug\net7.0\DareAcademy_BusinessLogic.deps.json
+E:\Dare Academy\Task\DareAcademy\DareAcademy_BusinessLogic\bin\Debug\net7.0\DareAcademy_BusinessLogic.runtimeconfig.json
+E:\Dare Academy\Task\DareAcademy\DareAcademy_BusinessLogic\bin\Debug\net7.0\DareAcademy_BusinessLogic.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_BusinessLogic\bin\Debug\net7.0\DareAcademy_BusinessLogic.pdb
+E:\Dare Academy\Task\DareAcademy\DareAcademy_BusinessLogic\bin\Debug\net7.0\DareAcademy_DataAccess.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_BusinessLogic\bin\Debug\net7.0\DareAcademy_DataAccess.pdb
+E:\Dare Academy\Task\DareAcademy\DareAcademy_BusinessLogic\obj\Debug\net7.0\DareAcademy_BusinessLogic.csproj.AssemblyReference.cache
+E:\Dare Academy\Task\DareAcademy\DareAcademy_BusinessLogic\obj\Debug\net7.0\DareAcademy_BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dare Academy\Task\DareAcademy\DareAcademy_BusinessLogic\obj\Debug\net7.0\DareAcademy_BusinessLogic.AssemblyInfoInputs.cache
+E:\Dare Academy\Task\DareAcademy\DareAcademy_BusinessLogic\obj\Debug\net7.0\DareAcademy_BusinessLogic.AssemblyInfo.cs
+E:\Dare Academy\Task\DareAcademy\DareAcademy_BusinessLogic\obj\Debug\net7.0\DareAcademy_BusinessLogic.csproj.CoreCompileInputs.cache
+E:\Dare Academy\Task\DareAcademy\DareAcademy_BusinessLogic\obj\Debug\net7.0\DareAcademy_BusinessLogic.csproj.CopyComplete
+E:\Dare Academy\Task\DareAcademy\DareAcademy_BusinessLogic\obj\Debug\net7.0\DareAcademy_BusinessLogic.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_BusinessLogic\obj\Debug\net7.0\refint\DareAcademy_BusinessLogic.dll
+E:\Dare Academy\Task\DareAcademy\DareAcademy_BusinessLogic\obj\Debug\net7.0\DareAcademy_BusinessLogic.pdb
+E:\Dare Academy\Task\DareAcademy\DareAcademy_BusinessLogic\obj\Debug\net7.0\DareAcademy_BusinessLogic.genruntimeconfig.cache
+E:\Dare Academy\Task\DareAcademy\DareAcademy_BusinessLogic\obj\Debug\net7.0\ref\DareAcademy_BusinessLogic.dll
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_BusinessLogic\bin\Debug\net7.0\DareAcademy_BusinessLogic.deps.json
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_BusinessLogic\bin\Debug\net7.0\DareAcademy_BusinessLogic.runtimeconfig.json
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_BusinessLogic\bin\Debug\net7.0\DareAcademy_BusinessLogic.dll
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_BusinessLogic\bin\Debug\net7.0\DareAcademy_BusinessLogic.pdb
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_BusinessLogic\bin\Debug\net7.0\DareAcademy_DataAccess.dll
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_BusinessLogic\bin\Debug\net7.0\DareAcademy_DataAccess.pdb
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_BusinessLogic\obj\Debug\net7.0\DareAcademy_BusinessLogic.csproj.AssemblyReference.cache
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_BusinessLogic\obj\Debug\net7.0\DareAcademy_BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_BusinessLogic\obj\Debug\net7.0\DareAcademy_BusinessLogic.AssemblyInfoInputs.cache
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_BusinessLogic\obj\Debug\net7.0\DareAcademy_BusinessLogic.AssemblyInfo.cs
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_BusinessLogic\obj\Debug\net7.0\DareAcademy_BusinessLogic.csproj.CoreCompileInputs.cache
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_BusinessLogic\obj\Debug\net7.0\DareAcademy_BusinessLogic.csproj.CopyComplete
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_BusinessLogic\obj\Debug\net7.0\DareAcademy_BusinessLogic.dll
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_BusinessLogic\obj\Debug\net7.0\refint\DareAcademy_BusinessLogic.dll
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_BusinessLogic\obj\Debug\net7.0\DareAcademy_BusinessLogic.pdb
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_BusinessLogic\obj\Debug\net7.0\DareAcademy_BusinessLogic.genruntimeconfig.cache
+E:\Dare Academy\Task\Lengo Academy\DareAcademy\DareAcademy_BusinessLogic\obj\Debug\net7.0\ref\DareAcademy_BusinessLogic.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_BusinessLogic\bin\Debug\net7.0\DareAcademy_BusinessLogic.deps.json
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_BusinessLogic\bin\Debug\net7.0\DareAcademy_BusinessLogic.runtimeconfig.json
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_BusinessLogic\bin\Debug\net7.0\DareAcademy_BusinessLogic.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_BusinessLogic\bin\Debug\net7.0\DareAcademy_BusinessLogic.pdb
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_BusinessLogic\bin\Debug\net7.0\DareAcademy_DataAccess.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_BusinessLogic\bin\Debug\net7.0\DareAcademy_DataAccess.pdb
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_BusinessLogic\obj\Debug\net7.0\DareAcademy_BusinessLogic.csproj.AssemblyReference.cache
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_BusinessLogic\obj\Debug\net7.0\DareAcademy_BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_BusinessLogic\obj\Debug\net7.0\DareAcademy_BusinessLogic.AssemblyInfoInputs.cache
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_BusinessLogic\obj\Debug\net7.0\DareAcademy_BusinessLogic.AssemblyInfo.cs
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_BusinessLogic\obj\Debug\net7.0\DareAcademy_BusinessLogic.csproj.CoreCompileInputs.cache
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_BusinessLogic\obj\Debug\net7.0\DareAcademy_BusinessLogic.csproj.CopyComplete
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_BusinessLogic\obj\Debug\net7.0\DareAcademy_BusinessLogic.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_BusinessLogic\obj\Debug\net7.0\refint\DareAcademy_BusinessLogic.dll
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_BusinessLogic\obj\Debug\net7.0\DareAcademy_BusinessLogic.pdb
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_BusinessLogic\obj\Debug\net7.0\DareAcademy_BusinessLogic.genruntimeconfig.cache
+E:\Task\Lengo Academy\DareAcademy\DareAcademy_BusinessLogic\obj\Debug\net7.0\ref\DareAcademy_BusinessLogic.dll
